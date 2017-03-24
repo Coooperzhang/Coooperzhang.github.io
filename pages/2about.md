@@ -10,7 +10,7 @@ icon: glyphicon-heart
 >   
 
 在校硕士研究生一枚，就读于电子科技大学电子与通信工程，2018年毕业。 
-了解c++，python，目前自学Java  
+了解c++，python，html,css,js.目前自学Java  
 
    
 
