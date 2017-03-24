@@ -1,5 +1,5 @@
 # Site settings
-
+encoding: UTF-8
 title: ZMY
 email: zmyscdx@163.com
 description: 张明艳的博客
@@ -15,7 +15,7 @@ github_username:  Coooperzhang
 permalink: /:year/:month/:day/:title/
 
 # Build settings
-#encoding: UTF-8
+
 markdown: kramdown
 
 # highlight
