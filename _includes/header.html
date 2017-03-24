@@ -27,10 +27,10 @@
 
        {% for p in site.pages %}
           {% if p.title %}
-            {% if p.url == page.url %}
+            <!--{% if p.url == page.url %}
               <li class="active">
               {% else %}
-              <li>
+              <li>-->
             {% endif %}
             <a href="{{ p.url | prepend: site.baseurl }}"><span class="glyphicon {{ p.icon }}"></span> {{ p.title }}</a></li>
           {% endif %}
