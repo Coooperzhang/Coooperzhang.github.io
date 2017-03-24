@@ -1,19 +1,7 @@
 ---
-layout: post
-title:  "赵昌峻的第一篇blog!"
-date:   2014-07-24 10:47:13
-categories: other
----
-大家好，欢迎来到我的博客，本篇博客将向大家介绍如何在Jekyll中实现代码高亮显示。
-
-假设我们的代码是java的，看看下面的效果还可以吧？
-
-{% highlight java %}
-class test{
-   public static void main(String[] args){
-     System.out.println("hello, world");
-   }
-}
-{% endhighlight %}
-
-当然所有markdown的语法Jekyll都支持哦
+　　layout: default
+　　title: 你好，世界
+　　---
+　　<h2>{{ page.title }}</h2>
+　　<p>我的第一篇文章</p>
+　　<p>{{ page.date | date_to_string }}</p>
