@@ -1,53 +1,31 @@
-<header>
+<head>
 <script type="text/javascript">
-
 var documentHeight = 0;
-
 var topPadding = 15;
-
 $(function() {
-
 var offset = $("adsbox").offset();
-
 documentHeight = $(document).height();
-
 $(window).scroll(function() {
-
 var sideBarHeight = $("adsbox").height();
-
 if ($(window).scrollTop() > offset.top) {
-
 var newPosition = ($(window).scrollTop() - offset.top) + topPadding;
-
 var maxPosition = documentHeight - (sideBarHeight + 368);
-
 if (newPosition > maxPosition) {
-
 newPosition = maxPosition;
-
 }
-
 $("adsbox").stop().animate({
-
 marginTop: newPosition
-
 });
-
 } else {
-
 $("adsbox").stop().animate({
-
 marginTop: 0
-
 });
-
 };
-
 });
-
 });
-
 </script>
+</head>
+<header>
 <!-- navbar -->
   <nav class="navbar navbar-inverse">
   <div class="container">
