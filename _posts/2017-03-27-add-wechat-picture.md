@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "今天第一次试用博客，表示纪念！"
+title:  "添加微信二维码"
 date:   2017-03-27 14:44:54
 categories: 网页布局
 
