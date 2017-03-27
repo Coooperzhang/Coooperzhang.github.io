@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 文章列表
 title:  "今天第一次试用博客，表示纪念！"
 date:   2017-03-24 15:14:54
 categories: 个人博客
