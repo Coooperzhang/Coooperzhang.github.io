@@ -10,7 +10,12 @@ categories: 个人博客
 {:toc}
 
 
-九月份找工作了啊！开始[记录](https://123.sogou.com/)！
+九月份找工作了啊！开始[记录](https://coooperzhang.github.io/about/)！
+
+---
+
+愿每天都有好心情
+![goodday]({{"/css/pics/goodday.jpg"}}) 
 <br>
 <br>
 
