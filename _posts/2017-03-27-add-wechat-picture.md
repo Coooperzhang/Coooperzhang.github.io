@@ -13,9 +13,9 @@ categories: 网页布局
 想在模板的基础上添加自己的微信二维码，只需在header.html文件中添加如下代码：
 
 	<div>
-		<p >
-			<img src="/css/pics/wechat.jpg" alt="We Chat" style="float:left;position:fixed; left:5px; top:180px;" width="150" height="150">
-		</p>
+	<p >
+		<img src="/css/pics/wechat.jpg" alt="We Chat" style="float:left;position:fixed; left:5px; top:180px;" width="150" height="150">
+	</p>
 	</div>
 	
 **调整’position‘对象属性可以调整图片的显示效果 **
