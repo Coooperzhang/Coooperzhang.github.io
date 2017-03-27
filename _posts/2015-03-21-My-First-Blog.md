@@ -16,7 +16,8 @@ categories: 个人博客
 
 愿每天都有好心情
 
-![goodday]({{"/css/pics/goodday.jpg"}}) 
+#![goodday]({{"/css/pics/goodday.jpg"}}) 
+![goodday](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490610360711&di=4d6ed85d71f8cc78d673db5d5ce625a4&imgtype=0&src=http%3A%2F%2Fimg.tuku.cn%2Ffile_big%2F201502%2F0e93d8ab02314174a933b5f00438d357.jpg)
 
 <br>
 <br>
