@@ -17,6 +17,7 @@ categories: 个人博客
 愿每天都有好心情
 
 ![goodday]({{"/css/pics/goodday.jpg"}}) 
+
 <br>
 <br>
 
