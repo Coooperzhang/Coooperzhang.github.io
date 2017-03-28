@@ -10,6 +10,7 @@ categories: Java
 {:toc}
 
 POM是项目对象模型（Project Object Model）的简称，它是Maven项目中的文件使用XML表示，叫做pom.xml。详细解释如下：
+
 ---
 
 	<project xmlns="http://maven.apache.org/POM/4.0.0"   
@@ -1214,7 +1215,7 @@ POM是项目对象模型（Project Object Model）的简称，它是Maven项目�
 	  
 	</project>
 
-	<br>
+
 
 
 
