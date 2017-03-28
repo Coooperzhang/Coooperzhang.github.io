@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maven pom.xml文件教程详解！"
+title:  "Maven pom.xml文件教程详解"
 date:   2017-03-28 20:35:54
 categories: Java
 
