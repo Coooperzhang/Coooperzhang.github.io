@@ -10,7 +10,7 @@ categories: 剑指offer
 {:toc}
 
 
-开始[记录](https://coooperzhang.github.io/about/)！
+开 始[记录](https://coooperzhang.github.io/about/)！
 
 
 ---
