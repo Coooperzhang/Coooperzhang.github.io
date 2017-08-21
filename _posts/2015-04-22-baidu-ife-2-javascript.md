@@ -1470,6 +1470,7 @@ var suggestData = ['Simon', 'Erik', 'Kener'];
 
 ## 最终作品
 
-
+* [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
+* [在线 Demo]
 
 加油！向着下一个目标前进！
