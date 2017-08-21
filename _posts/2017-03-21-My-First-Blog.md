@@ -10,7 +10,7 @@ categories: 剑指offer
 {:toc}
 
 
-九月份找工作了啊！开始[记录](https://coooperzhang.github.io/about/)！
+开始[记录](https://coooperzhang.github.io/about/)！
 
 
 ---
