@@ -2,7 +2,7 @@
 layout: post
 title:  "前端的一些资料和工具"
 date:   2016-09-10 14:06:05
-categories: Front-end
+categories: 前端技术
 excerpt: 记录一些好用的前端工具和框架。
 ---
 
