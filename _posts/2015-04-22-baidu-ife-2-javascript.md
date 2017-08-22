@@ -1246,10 +1246,7 @@ enter 键的 keyCode 为 13。
 
 主要就是对字符串的操作，`split()` 的使用，以及正则表达式的使用。
 
-### 实现
 
-* [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_1.html)
 
 ---
 
@@ -1278,10 +1275,7 @@ enter 键的 keyCode 为 13。
     setTimeout() 只执行 code 一次。如果要多次调用，请使用 setInterval() 或者让 code 自身再次调用 setTimeout()。   
 * `clearTimeout()` 方法可取消由 setTimeout() 方法设置的 timeout。
 
-### 实现
 
-* [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_2.html)
 
 ---
 
@@ -1308,10 +1302,7 @@ enter 键的 keyCode 为 13。
 
 * [JS图片切换](http://www.itxueyuan.org/view/6323.html)
 
-### 实现
 
-* [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_3.html)
 
 ### 关于变速运动
 
@@ -1432,10 +1423,7 @@ var suggestData = ['Simon', 'Erik', 'Kener'];
 
 * [oninput 事件](http://help.dottoro.com/ljhxklln.php)
 
-### 实现
 
-* [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_4.html)
 
 
 ---
@@ -1461,16 +1449,5 @@ var suggestData = ['Simon', 'Erik', 'Kener'];
 
 我在这里没有使用 html5 中的拖拽 API，所以兼容性还是很好的。
 
-### 实现
-
-* [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_5.html)
 
 ---
-
-## 最终作品
-
-* [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线 Demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/index.html)
-
-加油！向着下一个目标前进！
