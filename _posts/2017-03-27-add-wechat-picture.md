@@ -2,7 +2,7 @@
 layout: post
 title:  "添加微信二维码"
 date:   2017-03-27 14:44:54
-categories: 网页布局
+categories: 前端技术
 
 ---
 
