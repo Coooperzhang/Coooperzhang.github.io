@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hibernate"
+title:  "Hibernate框架"
 date:   2017-03-02 15:06:05
 categories: Java
 
