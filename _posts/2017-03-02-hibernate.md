@@ -9,8 +9,10 @@ categories: Java
 * content
 {:toc}
 
-hibernate框架主要是实现数据库与实体类间的映射，使得操作实体类相当与操作hibernate框架。
+
 ---
+
+hibernate框架主要是实现数据库与实体类间的映射，使得操作实体类相当与操作hibernate框架。
 
 ## 使用
 
