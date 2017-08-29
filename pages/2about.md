@@ -9,8 +9,8 @@ icon: glyphicon-heart
 
 >   
 
-在校硕士研究生一枚，就读于电子科技大学电子与通信工程，2018年毕业。 
-了解c++，python，html,css,js.目前自学Java  
+在校硕士研究生一枚，就读于电子科技大学 电子与通信工程专业，2018年毕业。 
+了解c++，python，html,css,js。熟悉Java和常用的数据结构算法，能使用SpringMVC+MyBatis进行简单web开发。  
 
    
 
